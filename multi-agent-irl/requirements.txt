@@ -1,0 +1,12 @@
+tensorflow-gpu==1.14
+numpy==1.16.5
+scipy==1.7.3
+mpi4py
+ray
+click
+gym[mujoco,atari,classic_control]==0.10.5
+tqdm
+joblib
+progressbar2
+zmq
+cloudpickle

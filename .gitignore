@@ -1,0 +1,13 @@
+/multi-agent-irl/results/
+
+*/results/
+
+*.pyc
+*.pyo
+
+**/__pycache__/
+*/__pycache__/
+
+*__pycache__/
+
+*.cpython*
